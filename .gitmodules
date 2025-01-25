@@ -1,0 +1,3 @@
+[submodule "code/veld_code__conllueditor"]
+	path = code/veld_code__conllueditor
+	url = https://github.com/veldhub/veld_code__conllueditor.git
